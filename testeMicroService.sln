@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuServicoApi", "MeuServicoApi\MeuServicoApi.csproj", "{CE17E7BF-5E2A-2455-0329-36559E95C7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuOutroServicoApi", "MeuOutroServicoApi\MeuOutroServicoApi.csproj", "{31BB2983-8727-23AE-DA66-30472EC321C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE17E7BF-5E2A-2455-0329-36559E95C7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE17E7BF-5E2A-2455-0329-36559E95C7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE17E7BF-5E2A-2455-0329-36559E95C7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE17E7BF-5E2A-2455-0329-36559E95C7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BB2983-8727-23AE-DA66-30472EC321C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BB2983-8727-23AE-DA66-30472EC321C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BB2983-8727-23AE-DA66-30472EC321C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BB2983-8727-23AE-DA66-30472EC321C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F37047-6840-4921-94B5-93F8972A8658}
+	EndGlobalSection
+EndGlobal
