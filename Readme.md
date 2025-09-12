@@ -1,4 +1,3 @@
-````markdown
 # 🖧 Estudo de Microserviços com .NET
 
 Este projeto é um estudo prático para entender como microserviços funcionam, como eles se comunicam entre si utilizando **ASP.NET Core**, **Controllers** e **HttpClient**, e como centralizar o acesso a esses serviços com **API Gateway (Ocelot)**.
