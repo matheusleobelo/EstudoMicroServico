@@ -31,3 +31,4 @@
 /home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuServicoApi/obj/Debug/net8.0/MeuServicoApi.pdb
 /home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuServicoApi/obj/Debug/net8.0/MeuServicoApi.genruntimeconfig.cache
 /home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuServicoApi/obj/Debug/net8.0/ref/MeuServicoApi.dll
+/home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuServicoApi/obj/Debug/net8.0/MeuServicoApi.sourcelink.json
