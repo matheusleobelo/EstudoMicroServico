@@ -1,5 +1,6 @@
 using System;
 using RabbitMQ.Client;
+using RabbitMQ.Client; // Ensure this using is present for IModel
 using System.Text;
 using System.Text.Json;
 
