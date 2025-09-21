@@ -33,3 +33,6 @@
 /home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuOutroServicoApi/obj/Debug/net8.0/MeuOutroServicoApi.pdb
 /home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuOutroServicoApi/obj/Debug/net8.0/MeuOutroServicoApi.genruntimeconfig.cache
 /home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuOutroServicoApi/obj/Debug/net8.0/ref/MeuOutroServicoApi.dll
+/home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuOutroServicoApi/bin/Debug/net8.0/MassTransit.dll
+/home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuOutroServicoApi/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/home/matheusnotebook/Documentos/WorkSpace/DIO/DOTNET-AI/EstudosC#/testeMicroService/MeuOutroServicoApi/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
